@@ -19,7 +19,7 @@
   
   ### I am Simmy Varghese
   
-  ###### (Open For Hiring)
+  ###### (Working as Front End Developer)
 </div>  
 
 <hr>
@@ -68,6 +68,9 @@
   
 </div>  
 <div align="left">
+
+  :computer: Work Github Profile
+  https://github.com/simmy-reach88
 
   :pencil:  My Blog Posts
   
