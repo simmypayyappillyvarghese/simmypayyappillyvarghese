@@ -19,7 +19,7 @@
   
   ### I am Simmy Varghese
   
-  ###### (Working as Front End Developer)
+  ###### (Front End Developer)
 </div>  
 
 <hr>
@@ -71,6 +71,7 @@
 
   :computer: Work Github Profile
   https://github.com/simmy-reach88
+  
 
   :pencil:  My Blog Posts
   
