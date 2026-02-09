@@ -26,7 +26,7 @@
 
 <div align="center">
   
- :woman_technologist: I am an evolving  Full Stack Developer with 7 years of IT experience  in testing and supporting multiple platforms
+ :woman_technologist: I am working as front end developer with 9 years of IT experience  in development, testing and supporting multiple platforms
 
  :clap: Recognized for being an enthusiastic learner :open_book: , team player and problem solver with an  :eyes:  for details. 
 
